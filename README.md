@@ -1,9 +1,9 @@
 # Apache_PySpark
 
-<!--  python -m venv venv -->
+ python -m venv venv -->
 
-<!-- source venv/Scripts/activate -->
+source venv/Scripts/activate
 
-<!-- pip install -r requirements.txt -->
+pip install -r requirements.txt
 
-<!-- run ```Main.py``` file -->
+run ```Main.py``` file
